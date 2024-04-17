@@ -2,7 +2,7 @@ C# Projects These are some small projects I made using C# and .NET Framework
 
 Projects:
 
-• Car Insurance
+• [Car Insurance](https://github.com/mahk3727/CarInsurance2)
 
 • NFL Stats
 
